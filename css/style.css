@@ -572,6 +572,7 @@ main {
   outline: none;
   transition: border-color var(--transition);
   -webkit-appearance: none;
+  appearance: none;
   border-radius: 0;
 }
 
