@@ -4,8 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://weberphoto.qzz.io/</loc>
@@ -15,7 +13,7 @@
 <url>
   <loc>https://weberphoto.qzz.io/pages/contact/</loc>
   <lastmod>2026-04-10T18:32:37+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://weberphoto.qzz.io/pages/landscape/</loc>
@@ -35,7 +33,7 @@
 <url>
   <loc>https://weberphoto.qzz.io/pages/stylistic/</loc>
   <lastmod>2026-04-10T18:32:37+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 
 
